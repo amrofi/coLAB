@@ -1,5 +1,10 @@
 # coLAB
 
+### Leia-me ###
+
+Este repositório reúne scripts básicos para coleta de dados nas mídias sociais, desenvolvidos e adaptados por pesquisadores do [coLAB/UFF](http://www.colab.uff.br). O script *get_tweets* contém o passo-a-passo de autenticação no rtweet.
+
+
 ### Instalação do R ###
 
 Para instalar o software R, acesse a página do projeto e faça download do pacote binário PKG http://cran.us.r-project.org/. Caso seu sistema operacional não seja Windows, baixe também e faça a instalação do XQuartz em https://www.xquartz.org/index.html.
