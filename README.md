@@ -2,7 +2,7 @@
 
 ### Leia-me ###
 
-Este repositório reúne scripts básicos para coleta de dados nas mídias sociais, desenvolvidos e adaptados por pesquisadores do [coLAB/UFF](http://www.colab.uff.br). O script *get_tweets* contém o passo-a-passo de autenticação no rtweet.
+Este repositório reúne scripts básicos para coleta de dados nas mídias sociais, desenvolvidos e adaptados por pesquisadores do [coLAB/UFF](http://www.colab.uff.br).
 
 
 ### Instalação do R ###
